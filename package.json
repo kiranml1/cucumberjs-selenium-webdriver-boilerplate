@@ -1,0 +1,15 @@
+{
+  "name": "cucumberjs-selenium-webdriver-boilerplate",
+  "version": "1.0.0",
+  "description": "Cucumber.js with selenium-webdriver npm template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amruthaluri Kiran Kumar <kirankumar.amruthaluri@gmail.com> (http://akirankumar.org)",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^1.2.1",
+    "selenium-webdriver": "^2.53.3"
+  }
+}
